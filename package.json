@@ -1,0 +1,22 @@
+{
+  "name": "change-parameter-uni",
+  "version": "1.0.0",
+  "description": "This is made to help the other developer to build website functionality with ease.You don't need to do brain storming for to add different customisable parameter for to your website.You can just add this extension and you are ready to use this and change different parameter in your code. I hope you like it and use it to build your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantkumar-asia/change-parameter-univ.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Hemant Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantkumar-asia/change-parameter-univ/issues"
+  },
+  "homepage": "https://github.com/hemantkumar-asia/change-parameter-univ#readme"
+}
