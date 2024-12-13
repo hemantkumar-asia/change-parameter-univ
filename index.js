@@ -3,5 +3,5 @@ export function changePar(a,b){
     console.log(a+b+"this is script");
 }
 
-changePar(1,2);
+
 
